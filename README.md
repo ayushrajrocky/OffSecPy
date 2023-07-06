@@ -8,7 +8,7 @@ anonymous browsing and DDoS detection to password cracking and port
 scanning. This README provides an overview of the tools included in 
 OffSecPy and how they can be utilized.
 
-Table of Contents
+##Table of Contents
 Anonymous Browsing
 DDoS Finder & Spoof Detection
 Storm & FastFlux
