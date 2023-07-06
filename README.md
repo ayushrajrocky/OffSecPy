@@ -12,18 +12,18 @@ OffSecPy and how they can be utilized.
 
 Table of Contents
 
-Anonymous Browsing
+Anonymous Browsing,
 DDoS Finder & Spoof Detection
-Storm & FastFlux
-TCP Sequence Prediction Attack
-FTP
-GEO-IP
-NmapBruteFTP
-Offensenv
-PDF_META
-PassCracker
-Portscanner
-SSHBOT
+Storm & FastFlux,
+TCP Sequence Prediction Attack,
+FTP,
+GEO-IP,
+NmapBruteFTP,
+Offensenv,
+PDF_META,
+PassCracker,
+Portscanner,
+SSHBOT,
 
 Anonymous Browsing
 
